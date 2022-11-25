@@ -6,4 +6,7 @@
   Новини завантажуюються швидко та регулярно оновлюються.
   
   
-   
+ ### Результат роботи додатка:
+  
+![newsapp](https://github.com/Diana-Cherednyk/news-app/blob/master/about/img1.jpg)
+
